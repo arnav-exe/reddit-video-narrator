@@ -1,6 +1,6 @@
 # Reddit Video Narrator
 
-Script that scrapes reddit posts for their title, content and X number of the top comments and compiles it into a video with text-to-speech narration
+Program that scrapes reddit posts for their title, content and X number of the top comments and compiles it into a video with text-to-speech narration
 
 Built in 2022 using Python
 
